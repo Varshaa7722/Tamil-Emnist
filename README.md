@@ -22,6 +22,6 @@ The final system was tested with a live demo interface in Google Colab, allowing
 
 
 NOTE: This model works only on handwritten dataset
-The dataset can be found in repository itself
+The dataset can be found in https://www.kaggle.com/datasets/varshaa07/tamil-character-dataset
 
 AUTHOR: VARSHAA
