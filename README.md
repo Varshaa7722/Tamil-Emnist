@@ -21,6 +21,7 @@ Convolutional Neural Network (CNN) — for fast and efficient recognition
 The final system was tested with a live demo interface in Google Colab, allowing real-time image upload and character prediction with high accuracy.
 
 
-NOTE:This model works only on handwritten dataset
+NOTE: This model works only on handwritten dataset
+The dataset can be found in repository itself
 
-AUTHOR:VARSHAA
+AUTHOR: VARSHAA
